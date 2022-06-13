@@ -1,0 +1,21 @@
+h1, h2, h3, h4 {
+  font-family: 'Lobster', cursive;
+}
+div {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+
+}
+
+.button {
+  background-color: #1100ff;
+  border: none;
+  color: rgba(52, 109, 230, 0.445);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px;
+}
